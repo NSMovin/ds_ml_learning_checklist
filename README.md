@@ -17,7 +17,7 @@ I aim to complete these tasks every day to build foundational knowledge and prac
 | DS/ML Learning | ML theory, scikit-learn, Visualization | 50–90 min | [ ] Complete
 | Project | Any | 50–90 min | [ ] Complete
 
-Google Sheet link : [Daily_study_checklist](https://docs.google.com/spreadsheets/d/1JL8YNcOtF4Wduw5esdD1S5ppILCcXngJv22qkFW93Cg/edit?usp=sharing)
+Google Sheet link :
 
 ## Overall Task Status:
 
